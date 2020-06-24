@@ -1,0 +1,26 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+    font-family: sans-serif, futura;
+}
+
+.description {
+    color: red;
+}
+
+#truthLieSection {
+    border: solid 3px black;
+    background-color: gray;
+    border-radius: 20px;
+    padding: 5px 5px 15px;
+}
+
+.truthLieContainer {
+    border: solid 1px black;
+    background-color: lightgray;
+    border-radius: 15px;
+    text-align: center;
+    color: blue;
+    display: inline-block;
+    width: 32%;
+}
